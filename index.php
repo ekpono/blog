@@ -22,5 +22,6 @@ div {
 </div>
 </form>
 <a href="list.php">List Saved Contacts </a>
+<a href="list.php">contact us for more info</a>
 </body>
 </html>
