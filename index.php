@@ -19,6 +19,6 @@ div {
     <button input type='reset' name='reset'>Reset</button>
 </div>
 </form>
-<a href="list.php"> List Contacts </a>
+<a href="list.php">List Saved Contacts </a>
 </body>
 </html>
